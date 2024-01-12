@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and interests wit
 - 🌱 I'm currently learning mobile application development using the Flutter framework.
 
 ## Get in Touch
-- 📫 You can reach me via [email](mailto:ilhamridhoasysyifa@gmail.com).
+- 📫 You can reach me via [email](mailto:ilhamridho.ir@gmail.com).
 
 <!---
 ilhamridho04/ilhamridho04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
