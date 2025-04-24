@@ -1,16 +1,42 @@
-# Hi, I'm Ilham Ridho Asysyifa'a! 👋
+### Hi, I'm Ilham 👋
 
-Welcome to my GitHub profile! I'm excited to share my projects and interests with you.
+Gue seorang fullstack developer yang belajar ngoding secara otodidak.  
+Pernah kuliah sampe semester 5, tapi karena kondisi ekonomi, gue mutusin buat berhenti.  
+Tapi dari situ justru makin semangat ngulik dunia programming sampe bisa bikin berbagai aplikasi sendiri.
 
-## About Me
-- 👀 I'm interested in Android development, web development, and building RESTful APIs.
-- 🌱 I'm currently learning mobile application development using the Flutter framework.
+---
 
-## Get in Touch
-- 📫 You can reach me via [email](mailto:ilhamridho.ir@gmail.com).
-## Github Stats Card
+### Tech Stack yang sering gue pake:
+
+- **Backend**: PHP (CodeIgniter, Laravel), NodeJS  
+- **Frontend & Mobile**: JavaScript, Flutter (Dart), Java (Android)  
+- **Database**: SQL (MySQL), NoSQL (MongoDB)  
+- **Lainnya**: REST API, Firebase, Git
+
+Kadang juga ngulik hal-hal baru yang bisa ningkatin performa & scalability aplikasi. Intinya suka explore dan ngembangin skill terus.
+
+---
+
+### Beberapa hal tentang gue:
+
+- Gak harus kuliah tinggi buat bisa bikin sesuatu yang impactful  
+- Lebih suka belajar dari praktik langsung dan project nyata  
+- Ngoding udah jadi bagian dari keseharian, bukan sekadar kerjaan
+
+---
+
+### GitHub Stats Card
+
 [![ilhamridho04 GitHub stats](https://github-api-cyan-alpha.vercel.app)](https://ilhamridho04.github.io)
-<!---
-ilhamridho04/ilhamridho04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### Contact
+
+📩 Email: [ilhamridhoasysyifa@gmail.com](mailto:ilhamridhoasysyifa@gmail.com)  
+🌐 Portfolio: [https://ilhamridho04.github.io](https://ilhamridho04.github.io)  
+📸 Instagram: [@ilhamridho04](https://instagram.com/ilhamridho04)
+
+---
+
+> “Mulai aja dulu. Nunggu siap gak bakal bikin lo jalan.”
